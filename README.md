@@ -181,11 +181,11 @@ The project reveals several important findings:
 ## 📁 Files
 
 - `Working_notebook_week11(2).ipynb` — main notebook containing the full translatome and proteome comparison workflow
-- `Screenshot 2026-07-18 at 12.16.32 am.png` — proteins detected vs missing per sample
-- `Screenshot 2026-07-18 at 12.16.48 am.png` — distribution of sample detection per protein
-- `Screenshot 2026-07-18 at 12.17.13 am.png` — overlap between proteome and translatome datasets
-- `Screenshot 2026-07-18 at 12.17.29 am.png` — viral protein expression over time
-- `Screenshot 2026-07-18 at 12.18.49 am.png` — translatome volcano plots across timepoints
+- Proteins detected vs missing per sample 
+- Distribution of sample detection per protein
+- Overlap between proteome and translatome datasets
+- Viral protein expression over time
+- Translatome volcano plots across timepoints
 - `README.md` — project summary and usage instructions
 
 ---
